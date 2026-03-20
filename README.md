@@ -15,7 +15,7 @@ This project solves the problem of navigating multiple university portals by com
 
 ## 🌐 Live Demo
 
-👉 (Add your link after deployment)
+👉[(https://satvikreddy82.github.io/sastra-portal-hub/) ]
 
 
 ---
