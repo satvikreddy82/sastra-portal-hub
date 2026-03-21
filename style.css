@@ -70,3 +70,8 @@
       padding: 15px;
       margin-top: 30px;
     }
+    .feedback{
+      text-decoration: none;
+      color: white;
+      font-weight: lighter;
+     }
